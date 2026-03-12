@@ -17,11 +17,12 @@ Exploring AI
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-# 📊 GitHub Stats:
+# 🌱 Currently Learning:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalj09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nihalj09&theme=blue_navy&hide_border=false" alt="GitHub streak" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalj09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" width="32%" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
