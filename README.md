@@ -2,7 +2,6 @@
 - High school student exploring AI and how intelligent systems work
 - Passionate about backend development, APIs, and building useful tools
 - Enjoy working on projects that combine machine learning with real-world applications
-- Interested in clean code, problem-solving, and learning by building
 - Currently growing my skills in web development and modern AI frameworks
 
 
