@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="./assets/header.svg" alt="Nihal Jagadeesh banner" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Backend-focused student developer exploring AI through practical, project-based learning.</strong>
+</p>
+
+<p align="center">
+  Building with Python, experimenting with machine learning, and learning how to ship cleaner end-to-end products.
+</p>
+
+# ⚡ Focus:
+- Building backend projects with Python and FastAPI
+- Exploring AI, computer vision, and interactive experiments
+- Learning frontend fundamentals to support full-stack project work
+
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -8,7 +25,6 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -20,5 +36,3 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
