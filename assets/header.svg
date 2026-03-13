@@ -1,50 +1,49 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F" />
-      <stop offset="1" stop-color="#0A2742" />
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08121F" />
+      <stop offset="1" stop-color="#102A43" />
     </linearGradient>
-    <linearGradient id="accent" x1="68" y1="52" x2="380" y2="278" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="64" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8" />
       <stop offset="1" stop-color="#22C55E" />
     </linearGradient>
-    <filter id="blur" x="735" y="-26" width="430" height="430" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="48" />
-    </filter>
+    <linearGradient id="orb" x1="840" y1="54" x2="1050" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#1D4ED8" />
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="320" rx="28" fill="url(#bg)" />
+  <rect width="1200" height="300" rx="28" fill="url(#bg)" />
 
-  <g filter="url(#blur)" opacity="0.45">
-    <circle cx="950" cy="126" r="120" fill="#1D4ED8" />
-    <circle cx="1010" cy="220" r="92" fill="#0EA5E9" />
+  <g opacity="0.08">
+    <path d="M720 0V300" stroke="white" />
+    <path d="M800 0V300" stroke="white" />
+    <path d="M880 0V300" stroke="white" />
+    <path d="M960 0V300" stroke="white" />
+    <path d="M1040 0V300" stroke="white" />
+    <path d="M1120 0V300" stroke="white" />
   </g>
 
-  <circle cx="93" cy="67" r="10" fill="#38BDF8" />
-  <circle cx="121" cy="67" r="10" fill="#22C55E" />
-  <circle cx="149" cy="67" r="10" fill="#F97316" />
+  <rect x="64" y="58" width="176" height="6" rx="3" fill="url(#line)" />
 
-  <text x="70" y="128" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700">Nihal Jagadeesh</text>
-  <text x="70" y="168" fill="#C8D6E5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Backend development, AI exploration, and practical projects</text>
-  <text x="70" y="206" fill="#8CA4BD" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building APIs and learning machine learning.</text>
+  <text x="64" y="126" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Nihal Jagadeesh</text>
+  <text x="64" y="166" fill="#D6E4F0" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Backend development, AI exploration, and practical projects</text>
+  <text x="64" y="204" fill="#9FB3C8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building APIs and learning machine learning.</text>
 
-  <rect x="70" y="236" width="122" height="38" rx="19" fill="#0F2237" stroke="#1E3A5F" />
-  <text x="95" y="260" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">PYTHON</text>
+  <rect x="64" y="230" width="110" height="36" rx="18" fill="#0F2237" stroke="#214D72" />
+  <text x="91" y="253" fill="#E6EEF8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">PYTHON</text>
 
-  <rect x="206" y="236" width="132" height="38" rx="19" fill="#0F2237" stroke="#1E3A5F" />
-  <text x="233" y="260" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">FASTAPI</text>
+  <rect x="186" y="230" width="120" height="36" rx="18" fill="#0F2237" stroke="#214D72" />
+  <text x="214" y="253" fill="#E6EEF8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">FASTAPI</text>
 
-  <rect x="352" y="236" width="88" height="38" rx="19" fill="#0F2237" stroke="#1E3A5F" />
-  <text x="382" y="260" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">AI</text>
+  <rect x="318" y="230" width="66" height="36" rx="18" fill="#0F2237" stroke="#214D72" />
+  <text x="340" y="253" fill="#E6EEF8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI</text>
 
-  <g opacity="0.9">
-    <rect x="748" y="78" width="356" height="164" rx="20" fill="#071A2E" stroke="#1D4B7A" />
-    <text x="780" y="116" fill="#38BDF8" font-family="Courier New, monospace" font-size="18">class ProjectBuilder:</text>
-    <text x="780" y="148" fill="#C8D6E5" font-family="Courier New, monospace" font-size="18">    focus = ["backend", "ai"]</text>
-    <text x="780" y="180" fill="#C8D6E5" font-family="Courier New, monospace" font-size="18">    stack = ["python", "fastapi"]</text>
-    <text x="780" y="212" fill="#22C55E" font-family="Courier New, monospace" font-size="18">    status = "learning and building"</text>
+  <g opacity="0.95">
+    <circle cx="970" cy="150" r="96" fill="url(#orb)" opacity="0.12" />
+    <circle cx="970" cy="150" r="72" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="2" />
+    <circle cx="970" cy="150" r="44" stroke="#22C55E" stroke-opacity="0.5" stroke-width="2" />
+    <circle cx="970" cy="150" r="10" fill="#38BDF8" />
   </g>
-
-  <path d="M702 76C718 52 744 42 780 46" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
-  <path d="M698 246C728 272 770 282 824 276" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
 </svg>
