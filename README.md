@@ -2,14 +2,6 @@
   <img src="./assets/header.svg" alt="Nihal Jagadeesh banner" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Backend-focused student developer exploring AI through practical, project-based learning.</strong>
-</p>
-
-<p align="center">
-  Building with Python, experimenting with machine learning, and learning how to ship cleaner end-to-end products.
-</p>
-
 # ⚡ Focus:
 - Building backend projects with Python and FastAPI
 - Exploring AI, computer vision, and interactive experiments
